@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Insights for coffee roaster. 
+## Data insights for coffee roasters. 
 
-### <i class="fas fa-coffee"></i> 
+### <i class="fa fa-coffee"></i> 
 
 {% include sharing.html %}
