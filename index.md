@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Delivering key insights to coffee roasters around the world. 
+## Insights for coffee roaster. 
 
-### Delivering key insights to coffee roasters around the world. 
+### <i class="fas fa-coffee"></i> 
 
 {% include sharing.html %}
