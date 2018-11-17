@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-## Building beautiful<br>data insights<br>for coffee roasters. 
+## Building beautiful<br>data insights<br>for<br>coffee roasters. 
 {% include sharing.html %}
