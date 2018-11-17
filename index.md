@@ -1,5 +1,6 @@
 ---
 layout: default
 ---
-####### Building beautiful data insights for roasters of delicious <i class="fa fa-coffee"></i>
+## <i class="fa fa-coffee"></i>
+#### Building beautiful data insights for roasters of delicious coffee
 {% include sharing.html %}
