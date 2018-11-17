@@ -2,19 +2,7 @@
 layout: default
 ---
 
-## Rolling insights from around the world of coffee roasting.
-
-### Our mission
-
-#### Responsible roasting
-
-Coffee is a massive growth industry globally. There are complicated market and consumer concerns that are specific to the coffee industry. Traceability, sustainability and transparency in the production process are increasingly crucial to the perception of roasters in the specialty coffee market. 
-
-### With footnotes too!
-
-Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Delivering key insights to coffee roasters around the world. 
 
 ### Add social sharing buttons
 
